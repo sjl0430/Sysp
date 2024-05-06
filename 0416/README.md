@@ -1,12 +1,12 @@
 # 0416
 
 # ftype.c
-![0416_ftype](https://github.com/sjl0430/0416/assets/162114254/a5c7f192-30d4-4b11-8cd0-aa01093aa82b)
+![0416_ftype](https://github.com/sjl0430/Sysp/assets/162114254/91d619fe-0a17-488f-b2dc-dc52316473e8)
 
 
 # cptime.c
-![0416_cptime](https://github.com/sjl0430/0416/assets/162114254/56981d2e-8384-44b2-ac4b-8861f3832d3e)
+![0416_cptime](https://github.com/sjl0430/Sysp/assets/162114254/ad9d55de-2eeb-45f4-af53-36afc40c4b16)
 
 
 # fchmod.c
-![0416_fchmod](https://github.com/sjl0430/0416/assets/162114254/30e67182-9698-4dfa-afd5-8057153a691c)
+![0416_fchmod](https://github.com/sjl0430/Sysp/assets/162114254/9f337392-2dac-446b-b521-95ce735fb176)
