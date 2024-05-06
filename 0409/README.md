@@ -1,15 +1,22 @@
 # fopen.c 구동
-![image](https://github.com/sjl0430/0409/assets/162114254/3934ab19-44a3-409e-a215-4ec7f07b105f)
+![fopen](https://github.com/sjl0430/Sysp/assets/162114254/2bda4d5b-d52a-44ae-bda8-cf7dd0aadac7)
+
 
 # fsize.c 구동
-![image](https://github.com/sjl0430/0409/assets/162114254/325dbe7f-4c89-435a-ba1d-6c44b4633440)
+![fsize](https://github.com/sjl0430/Sysp/assets/162114254/d381469a-d826-431a-beef-c307871c640a)
+
+
 
 # copy.c 구동
-![image](https://github.com/sjl0430/0409/assets/162114254/3dd22d79-cdf0-4dce-9c92-49cedec00cb1)
+![fcopy](https://github.com/sjl0430/Sysp/assets/162114254/fc5a594e-0464-4b37-aabe-b9d5465fcebe)
+
+
 
 # dup.c 구동
-![image](https://github.com/sjl0430/0409/assets/162114254/8c6c69d5-c66f-46b0-af78-c40123f872d4)
+![dup](https://github.com/sjl0430/Sysp/assets/162114254/90789521-fd9b-4f2c-b6c5-6c87d4eea7e5)
+
+
 
 # dbcreate.c, dbquery.c ,dbupdate.c 구동
-![image](https://github.com/sjl0430/0409/assets/162114254/695df5f6-9f73-438e-9628-11092049db63)
-![image](https://github.com/sjl0430/0409/assets/162114254/5c6005a3-e04b-4874-bca8-27b0fb9617c3)
+![dbcreate](https://github.com/sjl0430/Sysp/assets/162114254/0c0287cd-fc7f-4f61-92eb-777015aa0aed)
+
