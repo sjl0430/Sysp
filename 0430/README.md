@@ -1,18 +1,19 @@
 # 0430
 
 # list1
-![스크린샷 2024-04-30 1](https://github.com/sjl0430/0430/assets/162114254/e11f6b03-a400-4930-9d9d-aeb7e8ed6cb7)
-
+![ls](https://github.com/sjl0430/Sysp/assets/162114254/8cbcfc25-7b33-4914-981a-f848176941a1)
 
 
 # list2
-![list2](https://github.com/sjl0430/0430/assets/162114254/77261059-69b0-421b-b69d-5fc72ddcb60a)
-
+![ls-l](https://github.com/sjl0430/Sysp/assets/162114254/89c3a13a-65e7-41e5-92ee-c3d4708225ed)
 
 
 # link & unlink
-![326751495-b41c0b89-3642-4e04-b868-fa3d15536020](https://github.com/sjl0430/0430/assets/162114254/a30712da-be8a-4c3d-b65a-0adee9705c21)
+![link](https://github.com/sjl0430/Sysp/assets/162114254/e872dc54-a175-4848-83e6-6ce094603f0e)
+
+![unlink](https://github.com/sjl0430/Sysp/assets/162114254/6f6c73a1-fcb1-487b-bfe6-16a44d2d4105)
 
 
 # rlink
-![slinkrlink](https://github.com/sjl0430/0430/assets/162114254/1c6a12a5-182f-4444-a709-ece445515a24)
+![rlink](https://github.com/sjl0430/Sysp/assets/162114254/1c2f719a-e9d6-4972-8d61-2e66d36e3747)
+
