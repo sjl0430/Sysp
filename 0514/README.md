@@ -27,6 +27,9 @@
 # test8
 ![image](https://github.com/sjl0430/Sysp/assets/162114254/68aa4221-2da1-40cb-91b3-1903deea6f49)
 
+# test 13
+![image](https://github.com/sjl0430/Sysp/assets/162114254/86417c49-8595-461f-963a-8ae70f610d28)
+
 # test14, test14b
 ![image](https://github.com/sjl0430/Sysp/assets/162114254/940ea759-d7b0-402b-a9b8-1662c3e3b47e)
 
