@@ -1,2 +1,25 @@
+- 옵션
 ls -a: a는 short option
 ls --all: all은 long option
+
+- man 번호
+(1) 명령
+(2) 시스템 호출
+(3) 라이브러리 함수
+
+- 텍스트 파일과 이진 파일의 차이
+: 개행문자 [Enter]의 처리 방식이 다름
+(r: ASCII 13번 cr)
+(rb: ASCII 10번 lf+ 13번 cr)
+
+- scanf가 int형을 입력받고 char형을 입력 받을 때
+: 두 번째 scanf에서 "%c" 입력구간이 int형 입력 이후 [Enter]를 입력값으로 인식하소 버퍼에 저장하여 오류 발생
+해결 1) 공백문자(scanf(" %c", )) 사용
+해결 2) getchar()를 사용
+(getch/getche/getchar)
+
+- cpu안의 메모리: 레지스터
+- cpu와 메모리 사이의 메모리: 캐시
+
+-포멧(format)
+: 포멧해도 사실 디스크엔 남아 있음, 공간이 모자라면 그 때 덮어씀, unformat하면 복구됨 (완전히 지우려면 raw format)
