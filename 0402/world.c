@@ -2,6 +2,6 @@
 #include"world.h"
 
 void say_world(){
-	printf("World!!!/n");
+	printf("World!!!\n");
 }
 
