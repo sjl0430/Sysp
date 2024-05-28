@@ -28,7 +28,7 @@
 ![image](https://github.com/sjl0430/Sysp/assets/162114254/7a8d2c7d-734c-412e-a879-9907232538c4)
 
 # system.c
-
+![image](https://github.com/sjl0430/Sysp/assets/162114254/ab979a20-0253-464a-91ea-e8c29201239a)
 
 # systemCall.c
 ![image](https://github.com/sjl0430/Sysp/assets/162114254/da285823-ff68-49cf-8015-0b7590f5ce22)
