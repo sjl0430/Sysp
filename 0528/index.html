@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+#include <stdio.h>
+#include <unistd.h>
+int main() {
+        int pid;
+        printf("[%d] 프로세스 시작 \n", getpid());
+        pid = fork();
+        printf("[%d] 프로세스 : 리턴값 %d\n", getpid(), pid);
+        pid = fork();
+        printf("[%d] 프로세스 : 리턴값 %d\n", getpid(), pid);
+        /* {출력 순서} 
+         * 부모1
+         * 부모1의 첫 번째 자식인 자식1
+         * 부모1
+         * 자식1
+         * 부모1의 두 번째 자식인 자식2
+         * 자식1의 첫 번째 자식인 자식3*/
+}
