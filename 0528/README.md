@@ -1,5 +1,23 @@
 # 0528
 
+# args.c
+![image](https://github.com/sjl0430/Sysp/assets/162114254/9b4f7815-5bee-4f5f-af68-3c778a6d39be)
+
+# pid.c
+![image](https://github.com/sjl0430/Sysp/assets/162114254/5295911c-60d9-47e1-9df4-73bd95791a32)
+
+# uid.c
+![image](https://github.com/sjl0430/Sysp/assets/162114254/f0bda174-4815-4778-8370-750d940e7fa4)
+
+# environ.c
+![image](https://github.com/sjl0430/Sysp/assets/162114254/bf9e78a9-7d48-4cd4-b9f2-bf15a36ff5eb)
+
+# printenv.c
+![image](https://github.com/sjl0430/Sysp/assets/162114254/d6001155-72c3-4cf7-aa16-beba1de8917b)
+
+# exit.c
+![image](https://github.com/sjl0430/Sysp/assets/162114254/75390a57-17bc-4b32-8f68-6a93f385cc74)
+
 # fork1.c
 ![image](https://github.com/sjl0430/Sysp/assets/162114254/179e5191-ca03-490f-a71c-c04d16520f08)
 
